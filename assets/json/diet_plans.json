@@ -1,0 +1,116 @@
+[
+  {
+    "category": "weight_loss",
+    "title": "Pakistani Fat Loss Plan",
+    "description": "1400 kcal/day – High protein, low carb Pakistani meals",
+    "totalCalories": 1400,
+    "meals": [
+      {
+        "name": "Breakfast",
+        "time": "7:00 AM",
+        "items": ["2 boiled eggs", "1 paratha (small, no ghee)", "1 cup green tea (no sugar)", "1 glass water"],
+        "calories": 320
+      },
+      {
+        "name": "Mid-Morning",
+        "time": "10:30 AM",
+        "items": ["1 apple", "10 almonds"],
+        "calories": 150
+      },
+      {
+        "name": "Lunch",
+        "time": "1:00 PM",
+        "items": ["1 cup chicken karahi (no extra oil)", "1 chapati", "salad (cucumber, tomato, onion)", "1 glass lassi (plain, no sugar)"],
+        "calories": 480
+      },
+      {
+        "name": "Evening Snack",
+        "time": "5:00 PM",
+        "items": ["1 cup chana chaat (no oil)", "1 cup green tea"],
+        "calories": 160
+      },
+      {
+        "name": "Dinner",
+        "time": "8:00 PM",
+        "items": ["1 cup daal (masoor/moong)", "1 chapati", "sabzi (bhindi / tori)", "salad"],
+        "calories": 290
+      }
+    ]
+  },
+  {
+    "category": "weight_gain",
+    "title": "Pakistani Muscle Gain Plan",
+    "description": "2800 kcal/day – High calorie, high protein for muscle building",
+    "totalCalories": 2800,
+    "meals": [
+      {
+        "name": "Breakfast",
+        "time": "7:00 AM",
+        "items": ["4 boiled eggs", "2 parathas with desi ghee", "1 glass full-fat milk", "banana"],
+        "calories": 780
+      },
+      {
+        "name": "Mid-Morning",
+        "time": "10:30 AM",
+        "items": ["1 cup dry fruits (dates, walnuts, almonds)", "1 glass milk shake"],
+        "calories": 420
+      },
+      {
+        "name": "Lunch",
+        "time": "1:00 PM",
+        "items": ["2 cups chicken karahi", "2 chapatis", "1 cup rice (plain)", "salad", "1 glass lassi"],
+        "calories": 780
+      },
+      {
+        "name": "Pre-Workout",
+        "time": "5:00 PM",
+        "items": ["2 bananas", "1 glass milk", "2 boiled eggs"],
+        "calories": 380
+      },
+      {
+        "name": "Dinner",
+        "time": "8:30 PM",
+        "items": ["1 cup beef karahi", "2 chapatis", "1 cup daal makhani", "1 glass full-fat milk before bed"],
+        "calories": 440
+      }
+    ]
+  },
+  {
+    "category": "maintenance",
+    "title": "Pakistani Maintenance Plan",
+    "description": "2000 kcal/day – Balanced meals for maintaining weight",
+    "totalCalories": 2000,
+    "meals": [
+      {
+        "name": "Breakfast",
+        "time": "7:30 AM",
+        "items": ["2 boiled eggs", "1 paratha", "1 cup chai (less sugar)", "1 seasonal fruit"],
+        "calories": 480
+      },
+      {
+        "name": "Mid-Morning",
+        "time": "10:30 AM",
+        "items": ["1 cup yogurt", "handful mixed nuts"],
+        "calories": 220
+      },
+      {
+        "name": "Lunch",
+        "time": "1:00 PM",
+        "items": ["1 cup chicken or daal", "1 cup rice or 2 chapatis", "salad", "1 glass lassi"],
+        "calories": 620
+      },
+      {
+        "name": "Evening",
+        "time": "5:00 PM",
+        "items": ["1 cup chai", "2 rusk or 1 banana"],
+        "calories": 180
+      },
+      {
+        "name": "Dinner",
+        "time": "8:00 PM",
+        "items": ["1 cup sabzi", "1 cup daal", "1 chapati", "salad"],
+        "calories": 500
+      }
+    ]
+  }
+]

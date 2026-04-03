@@ -1,0 +1,133 @@
+[
+  {
+    "level": "beginner",
+    "gender": "male",
+    "title": "Beginner Male – Full Body 3x/Week",
+    "days": [
+      {
+        "day": "Day 1",
+        "focus": "Full Body",
+        "exercises": [
+          {"name": "Push-ups", "sets": 3, "reps": "10-12", "restSeconds": 60, "tip": "Keep core tight, full range of motion"},
+          {"name": "Bodyweight Squats", "sets": 3, "reps": "15", "restSeconds": 60, "tip": "Knees track over toes"},
+          {"name": "Plank", "sets": 3, "reps": "20-30 sec", "restSeconds": 45, "tip": "Straight line from head to heels"},
+          {"name": "Dumbbell Rows", "sets": 3, "reps": "10 each", "restSeconds": 60, "tip": "Squeeze shoulder blade at top"},
+          {"name": "Glute Bridge", "sets": 3, "reps": "15", "restSeconds": 45, "tip": "Squeeze glutes at the top"}
+        ]
+      },
+      {
+        "day": "Day 2",
+        "focus": "Rest / Light Walk",
+        "exercises": [
+          {"name": "Walk (30 min)", "sets": 1, "reps": "30 min", "restSeconds": 0, "tip": "Brisk pace, stay hydrated"}
+        ]
+      },
+      {
+        "day": "Day 3",
+        "focus": "Upper Body",
+        "exercises": [
+          {"name": "Incline Push-ups", "sets": 3, "reps": "12", "restSeconds": 60},
+          {"name": "Dumbbell Bicep Curl", "sets": 3, "reps": "12", "restSeconds": 60},
+          {"name": "Overhead Press (light)", "sets": 3, "reps": "10", "restSeconds": 60},
+          {"name": "Tricep Dips (chair)", "sets": 3, "reps": "10", "restSeconds": 60}
+        ]
+      },
+      {
+        "day": "Day 4",
+        "focus": "Rest",
+        "exercises": [
+          {"name": "Stretching / Mobility", "sets": 1, "reps": "15 min", "restSeconds": 0}
+        ]
+      },
+      {
+        "day": "Day 5",
+        "focus": "Lower Body + Core",
+        "exercises": [
+          {"name": "Lunges", "sets": 3, "reps": "10 each leg", "restSeconds": 60},
+          {"name": "Calf Raises", "sets": 3, "reps": "20", "restSeconds": 45},
+          {"name": "Dead Bug", "sets": 3, "reps": "8 each side", "restSeconds": 45},
+          {"name": "Mountain Climbers", "sets": 3, "reps": "20 sec", "restSeconds": 45}
+        ]
+      }
+    ]
+  },
+  {
+    "level": "intermediate",
+    "gender": "male",
+    "title": "Intermediate Male – PPL Split",
+    "days": [
+      {
+        "day": "Day 1 – Push",
+        "focus": "Chest, Shoulders, Triceps",
+        "exercises": [
+          {"name": "Bench Press", "sets": 4, "reps": "8-10", "restSeconds": 90, "tip": "Control the descent"},
+          {"name": "Overhead Press", "sets": 3, "reps": "10", "restSeconds": 75},
+          {"name": "Incline Dumbbell Press", "sets": 3, "reps": "10", "restSeconds": 75},
+          {"name": "Lateral Raises", "sets": 3, "reps": "12-15", "restSeconds": 60},
+          {"name": "Tricep Pushdown", "sets": 3, "reps": "12", "restSeconds": 60}
+        ]
+      },
+      {
+        "day": "Day 2 – Pull",
+        "focus": "Back, Biceps",
+        "exercises": [
+          {"name": "Pull-ups / Assisted", "sets": 4, "reps": "6-8", "restSeconds": 90},
+          {"name": "Barbell Row", "sets": 4, "reps": "8", "restSeconds": 90},
+          {"name": "Seated Cable Row", "sets": 3, "reps": "10", "restSeconds": 75},
+          {"name": "Barbell Curl", "sets": 3, "reps": "10", "restSeconds": 60},
+          {"name": "Hammer Curl", "sets": 3, "reps": "12", "restSeconds": 60}
+        ]
+      },
+      {
+        "day": "Day 3 – Legs",
+        "focus": "Quads, Hamstrings, Glutes",
+        "exercises": [
+          {"name": "Barbell Squat", "sets": 4, "reps": "8", "restSeconds": 120},
+          {"name": "Romanian Deadlift", "sets": 3, "reps": "10", "restSeconds": 90},
+          {"name": "Leg Press", "sets": 3, "reps": "12", "restSeconds": 75},
+          {"name": "Leg Curl", "sets": 3, "reps": "12", "restSeconds": 60},
+          {"name": "Standing Calf Raise", "sets": 4, "reps": "15", "restSeconds": 60}
+        ]
+      }
+    ]
+  },
+  {
+    "level": "beginner",
+    "gender": "female",
+    "title": "Beginner Female – Tone & Strengthen",
+    "days": [
+      {
+        "day": "Day 1",
+        "focus": "Lower Body",
+        "exercises": [
+          {"name": "Bodyweight Squats", "sets": 3, "reps": "15", "restSeconds": 60},
+          {"name": "Glute Bridge", "sets": 3, "reps": "15", "restSeconds": 45, "tip": "Squeeze glutes hard at top"},
+          {"name": "Donkey Kicks", "sets": 3, "reps": "12 each", "restSeconds": 45},
+          {"name": "Sumo Squat", "sets": 3, "reps": "12", "restSeconds": 60},
+          {"name": "Calf Raises", "sets": 3, "reps": "20", "restSeconds": 30}
+        ]
+      },
+      {
+        "day": "Day 2",
+        "focus": "Upper Body & Core",
+        "exercises": [
+          {"name": "Knee Push-ups", "sets": 3, "reps": "10", "restSeconds": 60},
+          {"name": "Dumbbell Row", "sets": 3, "reps": "10 each", "restSeconds": 60},
+          {"name": "Plank", "sets": 3, "reps": "20-30 sec", "restSeconds": 45},
+          {"name": "Bicycle Crunches", "sets": 3, "reps": "15 each side", "restSeconds": 45},
+          {"name": "Superman Hold", "sets": 3, "reps": "10", "restSeconds": 45}
+        ]
+      },
+      {
+        "day": "Day 3",
+        "focus": "Full Body Cardio",
+        "exercises": [
+          {"name": "Jumping Jacks", "sets": 3, "reps": "30 sec", "restSeconds": 30},
+          {"name": "High Knees", "sets": 3, "reps": "30 sec", "restSeconds": 30},
+          {"name": "Burpees (modified)", "sets": 3, "reps": "8", "restSeconds": 60},
+          {"name": "Mountain Climbers", "sets": 3, "reps": "20 sec", "restSeconds": 45}
+        ]
+      }
+    ]
+  }
+]
